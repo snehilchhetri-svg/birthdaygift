@@ -200,14 +200,14 @@ const _slideFive = function () {
 };
 
 new TypeIt("#text1", {
-  strings: ["\n\nHappy Birthday.\n\nI don’t think you truly realize how much light you carry around with you. Some people walk into a room and simply exist, but you somehow make places feel softer, calmer, happier — just by being there.\n\nYou’re one of the few people who can make ordinary moments feel important. A simple conversation with you never really feels simple. Somehow your laugh stays in people’s heads long after the moment ends, and your presence has this strange way of making bad days feel lighter.\n\nI hope this year gives you back even a fraction of the kindness, care, and warmth you give to everyone else so naturally."],
+  strings: ["\n\nHappy Birthday preeeeetty girl.\n\nI don’t think you truly realize how much birght u shine. Some people walk into a room and simply exist, but you somehow make places feel softer, calmer, happier — just by being there.\n\nYou’re one of the few people who can make ordinary moments feel important. A simple conversation with you never really feels fun . Somehow your laugh stays in people’s heads long after the moment ends, and your presence has this strange way of making bad days feel lighter.\n\nI hope this year gives you back even a fraction of the kindness, care, and warmth you give to everyone else so naturally."],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#text2", {
-  strings: ["And honestly, I hope you never lose the little things that make you *you*:\n\nthe way you care too deeply,\nthe way you smile when you’re genuinely happy,\nthe way you try to hide your emotions but still show them through your eyes,\nthe way your existence quietly becomes important to people without you even realizing it.\n\nYou deserve memories that make you smile randomly months later.\nYou deserve people who choose you with certainty.\nYou deserve peace in your mind, softness in your heart, and happiness that doesn’t leave quickly.\n\nSo today, I just hope you feel loved.\nNot because it’s your birthday,\nbut because someone as beautiful as you — inside and out — genuinely deserves to.\n\nHappy Birthday again.\nAnd thank you for being you.", " ", "- Wish you all the best"],
+  strings: ["And honestly, I hope you never lose the little things that make you *you*:\n\nyour childish act,\nthe way you smile when you’re genuinely happy,\nthe way you try to hide your emotions but still show them through your eyes,\nthe way your existence quietly becomes important to people without you even realizing it.\n\nYou deserve memories that make you smile randomly months later.\nYou deserve people who choose you with certainty.\nYou deserve peace in your mind, softness in your heart, and happiness that doesn’t leave quickly.\n\nSo today, I just hope you feel loved.\nNot because it’s your birthday,\nbut because someone as beautiful as you — inside and out — genuinely deserves to.\n\nHappy Birthday again.\nAnd thank you for being you.", " ", "- Wish you all the best"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
